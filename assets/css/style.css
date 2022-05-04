@@ -1,0 +1,19 @@
+body{
+    text-align: center; 
+    background-color: #9dcfdb; 
+    color: rgb(10, 10, 10);
+}
+p{
+    font-size: 20px;
+    color: black;
+}
+
+h1{ text-align: center;
+    
+}
+
+img{
+    height:200px; 
+    width:200px;
+    border-radius: 50%;
+}
